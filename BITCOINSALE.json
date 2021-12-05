@@ -1,12 +1,12 @@
 {
     "success":true,
-    "asset":"BTCSALE",
+    "asset":"BITCOINSALE",
     "asset_issuer_address":"19JExC5ehPSGYcuQef1Wc4MosVfRjxkfFg",
     "asset_owner_address":"19JExC5ehPSGYcuQef1Wc4MosVfRjxkfFg",
-    "asset_supply":"350",
+    "asset_supply":"137",
     "asset_divisible":false,
     "asset_locked":true,
     "image":"https://i.imgur.com/skRHKqR.png",
     "image_large":"https://i.imgur.com/KlnUxLC.jpg",
-    "image_title":"BTCSALE"
+    "image_title":"BITCOINSALE"
 }
