@@ -1,6 +1,6 @@
 {
     "success":true,
-    "asset":"TRANSPAREPEPE",
+    "asset":"TRANSPARPEPE",
     "asset_issuer_address":"19JExC5ehPSGYcuQef1Wc4MosVfRjxkfFg",
     "asset_owner_address":"19JExC5ehPSGYcuQef1Wc4MosVfRjxkfFg",
     "asset_supply":"101",
@@ -8,5 +8,5 @@
     "asset_locked":true,
     "image":"https://i.imgur.com/zIPIiFR.png",
     "image_large":"https://i.imgur.com/V59Od5A.jpg",
-    "image_title":"TRANSPAREPEPE"
+    "image_title":"TRANSPARPEPE"
 }
