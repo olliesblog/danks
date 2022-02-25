@@ -1,12 +1,1 @@
-{
-    "asset":"BITCOINSALE",
-    "image":"https://i.imgur.com/zIPIiFR.png",
-    "description": "<img src=\"https://i.imgur.com/V59Od5A.jpg\" class=\"img-responsive\" /><div><br /></div>",
-    "website": "https://twitter.com/olliesblog",
-    "pgpsig": "olliesblog",
-    "category": "Dank Directory - Series 13",
-    "subcategory": "Card 16",
-    "category_custom": "Bitcoin Sale - Bitcoin CEO",
-    "image_large":"https://i.imgur.com/V59Od5A.jpg",
-    "image_title":"BITCOINSALE"
-}
+{"asset":"BITCOINSALE","image":"https://i.imgur.com/zIPIiFR.png","description":"<img src=\"https://i.imgur.com/V59Od5A.jpg\" class=\"img-responsive\" /><div><br /></div>","name":"BITCOINSALE","website":"https://twitter.com/olliesblog","pgpsig":"olliesblog","category":"Dank Directory - Series 13","subcategory":"Card 16","category_custom":"Bitcoin Sale - Bitcoin CEO","image_large":"https://i.imgur.com/V59Od5A.jpg","image_title":"BITCOINSALE"}
