@@ -1,6 +1,12 @@
 {
     "asset":"COLDESTROGAN",
     "image":"https://i.imgur.com/567BLeP.png",
+    "description": "<img src=\"https://i.imgur.com/yxklB1x.jpg\" class=\"img-responsive\" /><div><br /></div>",
+    "website": "https://twitter.com/olliesblog",
+    "pgpsig": "olliesblog",
+    "category": "Dank",
+    "subcategory": "Joe Rogan Pepe",
+    "category_custom": "Coldest Rogan",
     "image_large":"https://i.imgur.com/yxklB1x.jpg",
     "image_title":"COLDESTROGAN"
 }
