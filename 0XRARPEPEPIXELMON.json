@@ -1,1 +1,19 @@
-{"asset":"0XRAREPEPE.PIXELMON","image":"https://i.imgur.com/S7Urm9L.png","description":"<img src=\"https://i.imgur.com/9uUmx1H.png\" class=\"img-responsive\" /><div><br /></div>","name":"0XRAREPEPE.PIXELMON","website":"https://twitter.com/olliesblog","pgpsig":"olliesblog","category":"Dank Directory Subasset of - Series 40","subcategory":"Card 21","category_custom":"0XRAREPEPE.PIXELMON","image_large":"https://i.imgur.com/9uUmx1H.png","image_title":"0XRAREPEPE.PIXELMON"}
+{
+    "success":true,
+    "asset":"0XRAREPEPE.PIXELMON",
+    "image":"https://i.imgur.com/S7Urm9L.png",
+    "asset_issuer_address":"19JExC5ehPSGYcuQef1Wc4MosVfRjxkfFg",
+    "asset_owner_address":"19JExC5ehPSGYcuQef1Wc4MosVfRjxkfFg",
+    "asset_supply":"300",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "description": "<img src=\"https://i.imgur.com/9uUmx1H.png\" class=\"img-responsive\" /><div><br /></div>",
+    "name": "COLDESTROGAN",
+    "website": "https://twitter.com/olliesblog",
+    "pgpsig": "olliesblog",
+    "category": "Dank Directory - Series 40",
+    "subcategory": "Card 21 - Subasset",
+    "category_custom": "0XRarePepe - Pixelmon",
+    "image_large": "https://i.imgur.com/9uUmx1H.png",
+    "image_title": "0XRAREPEPE.PIXELMON",
+}
