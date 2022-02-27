@@ -1,14 +1,14 @@
 {
-  "asset": "PIXELMONREVEAL",
+  "asset": "PIXELMON",
   "image": "x",
   "description": "<video src=\"https://video.twimg.com/ext_tw_video/1491726711360081922/pu/vid/400x560/tPcvYzVIbu-u_ftL.mp4\" controls loop autoplay style=\"border-radius: 5px; border:0; background-color: black; box-shadow: 3px 3px 4px rgba(0,0,0,0.2);\" width=\"400\" height=\"560\" ></video> <img hidden src=\"lkjasdkljasljkdas.jpg\" onerror=\"this.onerror = null;try{document.querySelectorAll('#digitalArtInfo, #additionalCustomInfo ').forEach((elt)=>elt.setAttribute('hidden',true));document.querySelector('#assetExtendedDescription').classList.add('text-center');}catch(e){console.log(e)}\">",
   "image_large": "https://i.imgur.com/BOPCVVU.jpg",
-  "name": "PIXELMONREVEAL",
+  "name": "PIXELMON",
   "website": "https://twitter.com/olliesblog",
   "pgpsig": "olliesblog",
   "category": "Coming soon - Series 1",
   "subcategory": "Card Directory - coming soon",
-  "category_custom": "PIXELMONREVEAL",
+  "category_custom": "PIXELMON",
   "image_title": "PIXELMONREVEAL",
   "video": "https://video.twimg.com/ext_tw_video/1491726711360081922/pu/vid/400x560/tPcvYzVIbu-u_ftL.mp4"
 }
