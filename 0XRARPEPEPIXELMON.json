@@ -1,6 +1,6 @@
 {
     "success":true,
-    "asset":"OXRAREPEPE.PIXELMON",
+    "asset":"0XRAREPEPE.PIXELMON",
     "image":"https://i.imgur.com/S7Urm9L.png",
     "asset_issuer_address":"19JExC5ehPSGYcuQef1Wc4MosVfRjxkfFg",
     "asset_owner_address":"19JExC5ehPSGYcuQef1Wc4MosVfRjxkfFg",
@@ -8,12 +8,12 @@
     "asset_divisible":false,
     "asset_locked":true,
     "description": "<img src=\"https://i.imgur.com/VyhkuOV.png\" class=\"img-responsive\" /><div><br /></div>",
-    "name": "OXRAREPEPE.PIXELMON",
+    "name": "0XRAREPEPE.PIXELMON",
     "website": "https://twitter.com/olliesblog",
     "pgpsig": "olliesblog",
     "category": "Dank Directory - Series 40",
     "subcategory": "Card 21 - Subasset",
     "category_custom": "0XRarePepe - Pixelmon",
     "image_large": "https://i.imgur.com/VyhkuOV.png",
-    "image_title": "0XRAREPEPE.PIXELMON",
+    "image_title": "0XRAREPEPE.PIXELMON"
 }
