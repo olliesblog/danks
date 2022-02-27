@@ -1,7 +1,7 @@
 {
   "asset": "PIXELMON",
   "image": "https://i.imgur.com/fA2xSgL.png",
-  "description": "<video src=\"https://video.twimg.com/ext_tw_video/1491726711360081922/pu/vid/400x560/tPcvYzVIbu-u_ftL.mp4\" controls loop autoplay style=\"border-radius: 5px; border:0; background-color: black; box-shadow: 3px 3px 4px rgba(0,0,0,0.2);\" width=\"400\" height=\"560\" ></video> <img hidden src=\"lkjasdkljasljkdas.jpg\" onerror=\"this.onerror = null;try{document.querySelectorAll('#digitalArtInfo, #additionalCustomInfo ').forEach((elt)=>elt.setAttribute('hidden',true));document.querySelector('#assetExtendedDescription').classList.add('text-center');}catch(e){console.log(e)}\">",
+  "description": "<video src=\"https://video.twimg.com/ext_tw_video/1497933773673201668/pu/vid/720x1008/t36_jdRL9vDiGtIz.mp4\" controls loop autoplay style=\"border-radius: 5px; border:0; background-color: black; box-shadow: 3px 3px 4px rgba(0,0,0,0.2);\" width=\"400\" height=\"560\" ></video> <img hidden src=\"lkjasdkljasljkdas.jpg\" onerror=\"this.onerror = null;try{document.querySelectorAll('#digitalArtInfo, #additionalCustomInfo ').forEach((elt)=>elt.setAttribute('hidden',true));document.querySelector('#assetExtendedDescription').classList.add('text-center');}catch(e){console.log(e)}\">",
   "image_large": "https://i.imgur.com/ktenfrZ.png",
   "name": "PIXELMON",
   "website": "https://twitter.com/olliesblog",
@@ -10,5 +10,5 @@
   "subcategory": "Card Directory - coming soon",
   "category_custom": "PIXELMON",
   "image_title": "PIXELMONREVEAL",
-  "video": "https://video.twimg.com/ext_tw_video/1491726711360081922/pu/vid/400x560/tPcvYzVIbu-u_ftL.mp4"
+  "video": "https://video.twimg.com/ext_tw_video/1497933773673201668/pu/vid/720x1008/t36_jdRL9vDiGtIz.mp4"
 }
