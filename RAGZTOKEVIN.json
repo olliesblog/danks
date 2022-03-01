@@ -1,12 +1,15 @@
 {
     "success":true,
     "asset":"RAGZTOKEVIN",
+    "image":"https://easyasset.art/j/4cko7w/asset_data/4cko7w_thumb.png",
+    "description": "<img src=\"https://easyasset.art/j/4cko7w/asset_data/4cko7w_image.gif\" class=\"img-responsive\" /><div><br /></div>",
     "asset_issuer_address":"19JExC5ehPSGYcuQef1Wc4MosVfRjxkfFg",
     "asset_owner_address":"19JExC5ehPSGYcuQef1Wc4MosVfRjxkfFg",
+    "name": "RAGZTOKEVIN",
+    "website": "https://twitter.com/olliesblog",
+    "pgpsig": "olliesblog",
     "asset_supply":"70",
     "asset_divisible":false,
     "asset_locked":true,
-    "image":"https://easyasset.art/j/4cko7w/asset_data/4cko7w_thumb.png",
-    "image_large":"https://easyasset.art/j/4cko7w/asset_data/4cko7w_image.gif",
     "image_title":"RAGZTOKEVIN"
 }
