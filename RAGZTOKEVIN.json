@@ -10,6 +10,7 @@
     "pgpsig": "olliesblog",
     "asset_supply":"70",
     "asset_divisible":false,
-    "asset_locked":true,
-    "image_title":"RAGZTOKEVIN"
+    "category":"Meme Art",
+    "subcategory":"RAGZTOKEVIN",
+    "custom_category":"Directory coming soon"
 }
