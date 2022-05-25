@@ -1,1 +1,13 @@
-{"asset":"0XRAREPEPE","image":"https://i.imgur.com/S7Urm9L.png","description":"<img src=\"https://i.imgur.com/idtRoRp.jpg\" class=\"img-responsive\" /><div><br /></div>","name":"0XRAREPEPE","website":"https://twitter.com/olliesblog","pgpsig":"olliesblog","category":"Dank Directory - Series 40","subcategory":"Card 21","category_custom":"0XRAREPEPE","image_large":"https://i.imgur.com/idtRoRp.jpg","image_title":"0XRAREPEPE","artwork-title":"0XRAREPEPE","artwork-project":"DANK DIRECTORY"}
+{
+   "asset":"0XRAREPEPE",
+   "image":"https://i.imgur.com/S7Urm9L.png",
+   "description":"<img src=\"https://i.imgur.com/idtRoRp.jpg\" class=\"img-responsive\" /><div><br /></div>",
+   "name":"0XRAREPEPE",
+   "website":"https://twitter.com/olliesblog",
+   "pgpsig":"OLLIESBLOG",
+   "category":"Dank Directory",
+   "subcategory":"Series 40",
+   "category_custom":"Card 21",
+   "image_large":"https://i.imgur.com/idtRoRp.jpg",
+   "image_title":"0XRAREPEPE"
+}
